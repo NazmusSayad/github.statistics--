@@ -39,7 +39,8 @@ th {
   text-align: left;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(3, 102, 214);
+  color: rgb(36, 41, 46);
+  fill: rgb(36, 41, 46);
 }
 
 #gh-dark-mode-only:target th {
