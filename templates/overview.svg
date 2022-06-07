@@ -37,7 +37,7 @@ th {
   padding: 0.5em;
   padding-top: 0;
   text-align: left;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
   color: rgb(3, 102, 214);
 }
@@ -83,7 +83,7 @@ tr {
 <g>
 <rect x="5" y="5" id="background" />
 <g>
-<foreignObject x="21" y="21" width="318" height="168">
+<foreignObject x="21" y="21">
 <div xmlns="http://www.w3.org/1999/xhtml">
 
 <table>
