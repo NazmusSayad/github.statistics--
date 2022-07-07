@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# 🗎 Documentation
+# 📄 Documentation
 
 Setup a GitHub Action which runs periodically and pushes generated images to a repository.
 
