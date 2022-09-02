@@ -55,8 +55,8 @@ jobs:
     # Commit all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "NazmusSayad"
-        git config --global user.email "247sayad@gmail.com"
+        git config --global user.name "Nazmus Sayad"
+        git config --global user.email "87106526+NazmusSayad@users.noreply.github.com"
         git add .
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update [Skip GitHub Action]' || true
