@@ -60,4 +60,4 @@ jobs:
         git add .
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update [Skip GitHub Action]' || true
-        git push
+        git push --force
