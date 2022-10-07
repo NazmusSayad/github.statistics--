@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1997 Commits
+                            2001 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    99.5 MB used
+                                    99.6 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    94.2k added, 98k removed
+                                    91.9k added, 95.6k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.1251388274275" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="200.1251388274275" y="0" width="77.10790265500907" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="277.23304148243653" y="0" width="69.04431260546879" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="346.27735408790534" y="0" width="48.14452597752383" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="394.42188006542915" y="0" width="37.97105486657159" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.39293493200074" y="0" width="17.11266069159171" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.50559562359246" y="0" width="5.7575201014719095" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.2631157250644" y="0" width="4.736884274935624" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.07529324888523" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="201.07529324888523" y="0" width="77.44156323667245" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="278.5168564855577" y="0" width="69.16811042631146" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="347.68496691186914" y="0" width="48.230850066744296" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="395.91581697861346" y="0" width="36.42761793859524" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="432.3434349172087" y="0" width="17.143344031355618" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.48677894856434" y="0" width="5.767843449118123" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.25462239768245" y="0" width="4.745377602317589" height="8" fill="#a53b70"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -257,8 +257,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>352 kB</div>
-                                <div>43.51%</div>
+                                <div>353 kB</div>
+                                <div>43.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -270,7 +270,7 @@
                             </div>
                             <small>
                                 <div>121 kB</div>
-                                <div>15.01%</div>
+                                <div>15.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -281,8 +281,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>66.9 kB</div>
-                                <div>8.25%</div>
+                                <div>64.1 kB</div>
+                                <div>7.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -307,8 +307,8 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>135 kB</div>
-                                <div>16.76%</div>
+                                <div>136 kB</div>
+                                <div>16.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -320,7 +320,7 @@
                             </div>
                             <small>
                                 <div>84.9 kB</div>
-                                <div>10.47%</div>
+                                <div>10.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -332,7 +332,7 @@
                             </div>
                             <small>
                                 <div>30.1 kB</div>
-                                <div>3.72%</div>
+                                <div>3.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -394,12 +394,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 213 commits)</small>
+                    <small class="h-details">(computed from last 217 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.2 characters per line of code written</li>
+                        <li>Has approximately 31.1 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -445,13 +445,13 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 29.545454545454547px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             07
                         </div>
                         <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">14</span>
+                            <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             08
                         </div>
                         <div class="entry">
@@ -561,8 +561,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">23</span>
-                                <div class="bar" style="height: 19.166666666666668px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27</span>
+                                <div class="bar" style="height: 22.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -577,27 +577,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 40.51464593234832%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.19439728927274%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">51%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">SCSS</span>
-                                <div class="bar" style="width: 5.9047732681077285%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">TypeScript</span>
+                                <div class="bar" style="width: 5.522092291876611%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 5.8671227156123855%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <span class="name">SCSS</span>
+                                <div class="bar" style="width: 5.007000006763292%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.47963356997501%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.53001210629189%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">EJS</span>
-                                <div class="bar" style="width: 0.1399964205460656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.14284071772050022%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -635,7 +635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mosque-Screens/Mosque-Screen</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chat: https://discord.gg/CG7frj2 - Email: info@mosque.tech. We do not provide any support, this is a volunteer-based project therefore we cannot commit to any time to resolve local issues.</div>
@@ -1128,8 +1128,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,15,431.538,15C442.692,15,453.846,15,465,15L465,125Z" class="ct-area"/>
-                                        <path d="M30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,15,431.538,15C442.692,15,453.846,15,465,15" class="ct-line"/>
+                                        <path d="M30,125L30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,15,364.615,15C375.769,15,386.923,15,398.077,15C409.231,15,420.385,15,431.538,15C442.692,15,453.846,15,465,15L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,15,364.615,15C375.769,15,386.923,15,398.077,15C409.231,15,420.385,15,431.538,15C442.692,15,453.846,15,465,15" class="ct-line"/>
                                         <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="4"/>
                                         <line x1="63.46153846153846" y1="125" x2="63.47153846153846" y2="125" class="ct-point" ct:value="4"/>
                                         <line x1="96.92307692307692" y1="125" x2="96.93307692307692" y2="125" class="ct-point" ct:value="4"/>
@@ -1140,27 +1140,27 @@
                                         <line x1="264.2307692307692" y1="125" x2="264.2407692307692" y2="125" class="ct-point" ct:value="4"/>
                                         <line x1="297.6923076923077" y1="125" x2="297.70230769230767" y2="125" class="ct-point" ct:value="4"/>
                                         <line x1="331.15384615384613" y1="125" x2="331.1638461538461" y2="125" class="ct-point" ct:value="4"/>
-                                        <line x1="364.6153846153846" y1="125" x2="364.6253846153846" y2="125" class="ct-point" ct:value="4"/>
+                                        <line x1="364.6153846153846" y1="15" x2="364.6253846153846" y2="15" class="ct-point" ct:value="5"/>
                                         <line x1="398.07692307692304" y1="15" x2="398.08692307692303" y2="15" class="ct-point" ct:value="5"/>
                                         <line x1="431.53846153846155" y1="15" x2="431.54846153846154" y2="15" class="ct-point" ct:value="5"/>
                                         <line x1="465" y1="15" x2="465.01" y2="15" class="ct-point" ct:value="5"/>
-                                    <text x="30" y="120" class="ct-post">4</text><text x="63.46153846153846" y="120" class="ct-post">4</text><text x="96.92307692307692" y="120" class="ct-post">4</text><text x="130.3846153846154" y="120" class="ct-post">4</text><text x="163.84615384615384" y="120" class="ct-post">4</text><text x="197.3076923076923" y="120" class="ct-post">4</text><text x="230.76923076923077" y="120" class="ct-post">4</text><text x="264.2307692307692" y="120" class="ct-post">4</text><text x="297.6923076923077" y="120" class="ct-post">4</text><text x="331.15384615384613" y="120" class="ct-post">4</text><text x="364.6153846153846" y="120" class="ct-post">4</text><text x="398.07692307692304" y="10" class="ct-post">5</text><text x="431.53846153846155" y="10" class="ct-post">5</text><text x="465" y="10" class="ct-post">5</text></g>
+                                    <text x="30" y="120" class="ct-post">4</text><text x="63.46153846153846" y="120" class="ct-post">4</text><text x="96.92307692307692" y="120" class="ct-post">4</text><text x="130.3846153846154" y="120" class="ct-post">4</text><text x="163.84615384615384" y="120" class="ct-post">4</text><text x="197.3076923076923" y="120" class="ct-post">4</text><text x="230.76923076923077" y="120" class="ct-post">4</text><text x="264.2307692307692" y="120" class="ct-post">4</text><text x="297.6923076923077" y="120" class="ct-post">4</text><text x="331.15384615384613" y="120" class="ct-post">4</text><text x="364.6153846153846" y="10" class="ct-post">5</text><text x="398.07692307692304" y="10" class="ct-post">5</text><text x="431.53846153846155" y="10" class="ct-post">5</text><text x="465" y="10" class="ct-post">5</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">23 Sep.</text>
-                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">24</text>
-                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">25</text>
-                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">26</text>
-                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">27</text>
-                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">28</text>
-                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">29</text>
-                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">30</text>
-                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">01 Oct.</text>
-                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">02</text>
-                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">03</text>
-                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">04</text>
-                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">05</text>
-                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">06</text>
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">24 Sep.</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">29</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">30</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">01 Oct.</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">02</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">03</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">04</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">05</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">06</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">07</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -1181,8 +1181,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,125,431.538,125C442.692,125,453.846,125,465,125L465,125Z" class="ct-area"/>
-                                        <path d="M30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,125,431.538,125C442.692,125,453.846,125,465,125" class="ct-line"/>
+                                        <path d="M30,125L30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,15,364.615,15C375.769,15,386.923,125,398.077,125C409.231,125,420.385,125,431.538,125C442.692,125,453.846,125,465,125L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C41.154,125,52.308,125,63.462,125C74.615,125,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,15,364.615,15C375.769,15,386.923,125,398.077,125C409.231,125,420.385,125,431.538,125C442.692,125,453.846,125,465,125" class="ct-line"/>
                                         <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="63.46153846153846" y1="125" x2="63.47153846153846" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="96.92307692307692" y1="125" x2="96.93307692307692" y2="125" class="ct-point" ct:value="0"/>
@@ -1193,27 +1193,27 @@
                                         <line x1="264.2307692307692" y1="125" x2="264.2407692307692" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="297.6923076923077" y1="125" x2="297.70230769230767" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="331.15384615384613" y1="125" x2="331.1638461538461" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="364.6153846153846" y1="125" x2="364.6253846153846" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="398.07692307692304" y1="15" x2="398.08692307692303" y2="15" class="ct-point" ct:value="1"/>
+                                        <line x1="364.6153846153846" y1="15" x2="364.6253846153846" y2="15" class="ct-point" ct:value="1"/>
+                                        <line x1="398.07692307692304" y1="125" x2="398.08692307692303" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="431.53846153846155" y1="125" x2="431.54846153846154" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="465" y1="125" x2="465.01" y2="125" class="ct-point" ct:value="0"/>
-                                    <text x="30" y="120" class="ct-post">0</text><text x="63.46153846153846" y="120" class="ct-post">0</text><text x="96.92307692307692" y="120" class="ct-post">0</text><text x="130.3846153846154" y="120" class="ct-post">0</text><text x="163.84615384615384" y="120" class="ct-post">0</text><text x="197.3076923076923" y="120" class="ct-post">0</text><text x="230.76923076923077" y="120" class="ct-post">0</text><text x="264.2307692307692" y="120" class="ct-post">0</text><text x="297.6923076923077" y="120" class="ct-post">0</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="120" class="ct-post">0</text><text x="398.07692307692304" y="10" class="ct-post">+1</text><text x="431.53846153846155" y="120" class="ct-post">0</text><text x="465" y="120" class="ct-post">0</text></g>
+                                    <text x="30" y="120" class="ct-post">0</text><text x="63.46153846153846" y="120" class="ct-post">0</text><text x="96.92307692307692" y="120" class="ct-post">0</text><text x="130.3846153846154" y="120" class="ct-post">0</text><text x="163.84615384615384" y="120" class="ct-post">0</text><text x="197.3076923076923" y="120" class="ct-post">0</text><text x="230.76923076923077" y="120" class="ct-post">0</text><text x="264.2307692307692" y="120" class="ct-post">0</text><text x="297.6923076923077" y="120" class="ct-post">0</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="10" class="ct-post">+1</text><text x="398.07692307692304" y="120" class="ct-post">0</text><text x="431.53846153846155" y="120" class="ct-post">0</text><text x="465" y="120" class="ct-post">0</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">23 Sep.</text>
-                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">24</text>
-                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">25</text>
-                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">26</text>
-                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">27</text>
-                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">28</text>
-                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">29</text>
-                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">30</text>
-                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">01 Oct.</text>
-                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">02</text>
-                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">03</text>
-                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">04</text>
-                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">05</text>
-                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">06</text>
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">24 Sep.</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">29</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">30</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">01 Oct.</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">02</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">03</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">04</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">05</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">06</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">07</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -1231,6 +1231,86 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/mini-hash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#261c175</div>
+                                        <div class="message">attack removed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/mini-crypt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b0ac68</div>
+                                        <div class="message">crack mode updated</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/mini-crypt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#de2c620</div>
+                                        <div class="message">auto get data</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/mini-crypt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a89808d</div>
+                                        <div class="message">smile</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1267,86 +1347,6 @@
                                     <div class="commit">
                                         <div class="sha">#8d214da</div>
                                         <div class="message">favicon</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/mini-crypt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#327c0bf</div>
-                                        <div class="message">smile</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/mini-crypt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5ac7bc3</div>
-                                        <div class="message">smile</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/mini-crypt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8bf9ce9</div>
-                                        <div class="message">df</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/mini-crypt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#721c3d9</div>
-                                        <div class="message">dkfjdf</div>
                                     </div>
                                 </div>
                             </section>
@@ -1408,7 +1408,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.0275 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.3375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1430,10 +1430,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">681</div>
+                                        <div class="value">685</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 681 times</div>
+                                <div class="text">Repositories have been deployed 685 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2069,7 +2069,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2022, 05:30:33 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 7 Oct 2022, 08:19:49 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
