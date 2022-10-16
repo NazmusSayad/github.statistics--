@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3391" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4323" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2112 Commits
+                            2113 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    76.7k added, 86.4k removed
+                                    102k added, 103k removed
                                 </div>
                             </section>
                             <section>
@@ -577,42 +577,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 47.71280935545281%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 47.71361939529786%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 9.27435903775311%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.27374762049955%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 6.782868115476219%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.782420951140924%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.8262582309359574%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8261378338511236%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.729843993374045%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7297958780047631%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.44238962922672465%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.44301971998121126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.013185980006757815%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.013185110713726524%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Procfile</span>
-                                <div class="bar" style="width: 0.00923018600473047%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.009229577499608567%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2093,7 +2093,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">cec27ca1</span>
-                            <span class="code">src/assests/icons/add.svg</span>
+                            <span class="code">src/assests/icons/about-us.svg</span>
                             <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -2101,14 +2101,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;path d="M44.213 23H1.78662M22.9998 1.7868V44.2132" stroke="#264073" stroke-width="3.5" stroke-linecap="round"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;path d="M10.7186 4.99583C10.7186 3.67086 11.1696 2.40015 11.9726 1.46325C12.7755 0.526345 13.8645 0 15 0C16.1355 0 17.2245 0.526345 18.0274 1.46325C18.8303 2.40015 19.2814 3.67086 19.2814 4.99583C19.2814 6.32081 18.8303 7.59152 18.0274 8.52842C17.2245 9.46532 16.1355 9.99167 15 9.99167C13.8645 9.99167 12.7755 9.46532 11.9726 8.52842C11.1696 7.59152 10.7186 6.32081 10.7186 4.99583ZM15 2.50042C14.7192 2.50042 14.4411 2.56496 14.1816 2.69037C13.9221 2.81577 13.6864 2.99959 13.4878 3.23131C13.2892 3.46303 13.1317 3.73812 13.0242 4.04088C12.9167 4.34364 12.8614 4.66813 12.8614 4.99583C12.8614 5.32353 12.9167 5.64803 13.0242 5.95079C13.1317 6.25354 13.2892 6.52864 13.4878 6.76036C13.6864 6.99208 13.9221 7.17589 14.1816 7.3013C14.4411 7.4267 14.7192 7.49125 15 7.49125C15.5672 7.49125 16.1111 7.22834 16.5122 6.76036C16.9133 6.29238 17.1386 5.65766 17.1386 4.99583C17.1386 4.33401 16.9133 3.69929 16.5122 3.23131C16.1111 2.76333 15.5672 2.50042 15 2.50042ZM21.4286 6.24604C21.4286 5.7535 21.5117 5.26579 21.6732 4.81074C21.8348 4.35569 22.0715 3.94223 22.37 3.59395C22.6685 3.24567 23.0228 2.9694 23.4128 2.78091C23.8028 2.59243 24.2208 2.49542 24.6429 2.49542C25.065 2.49542 25.4829 2.59243 25.8729 2.78091C26.2629 2.9694 26.6172 3.24567 26.9157 3.59395C27.2142 3.94223 27.4509 4.35569 27.6125 4.81074C27.774 5.26579 27.8571 5.7535 27.8571 6.24604C27.8571 7.24077 27.5185 8.19476 26.9157 8.89813C26.3129 9.60151 25.4953 9.99667 24.6429 9.99667C23.7904 9.99667 22.9728 9.60151 22.37 8.89813C21.7672 8.19476 21.4286 7.24077 21.4286 6.24604ZM24.6429 4.99583C24.3587 4.99583 24.0862 5.12755 23.8852 5.36201C23.6843 5.59647 23.5714 5.91446 23.5714 6.24604C23.5714 6.57762 23.6843 6.89561 23.8852 7.13007C24.0862 7.36453 24.3587 7.49625 24.6429 7.49625C24.927 7.49625 25.1995 7.36453 25.4005 7.13007C25.6014 6.89561 25.7143 6.57762 25.7143 6.24604C25.7143 5.91446 25.6014 5.59647 25.4005 5.36201C25.1995 5.12755 24.927 4.99583 24.6429 4.99583ZM5.35714 2.49542C4.50466 2.49542 3.6871 2.89057 3.0843 3.59395C2.4815 4.29733 2.14286 5.25131 2.14286 6.24604C2.14286 7.24077 2.4815 8.19476 3.0843 8.89813C3.6871 9.60151 4.50466 9.99667 5.35714 9.99667C6.20962 9.99667 7.02719 9.60151 7.62999 8.89813C8.23278 8.19476 8.57143 7.24077 8.57143 6.24604C8.57143 5.25131 8.23278 4.29733 7.62999 3.59395C7.02719 2.89057 6.20962 2.49542 5.35714 2.49542ZM4.28571 6.24604C4.28571 5.91446 4.3986 5.59647 4.59953 5.36201C4.80046 5.12755 5.07298 4.99583 5.35714 4.99583C5.6413 4.99583 5.91383 5.12755 6.11476 5.36201C6.31569 5.59647 6.42857 5.91446 6.42857 6.24604C6.42857 6.57762 6.31569 6.89561 6.11476 7.13007C5.91383 7.36453 5.6413 7.49625 5.35714 7.49625C5.07298 7.49625 4.80046 7.36453 4.59953 7.13007C4.3986 6.89561 4.28571 6.57762 4.28571 6.24604ZM7.00286 12.4971C6.62573 13.2568 6.42759 14.1195 6.42857 14.9975H2.14286V21.2485C2.14268 21.8705 2.27506 22.4827 2.52807 23.0301C2.78108 23.5775 3.14679 24.0429 3.59226 24.3844C4.03773 24.7259 4.549 24.9328 5.08002 24.9864C5.61104 25.04 6.14516 24.9387 6.63429 24.6916C6.79286 25.5193 7.04143 26.3094 7.36286 27.047C6.54957 27.4302 5.66809 27.5745 4.79584 27.4673C3.92358 27.36 3.08723 27.0045 2.36023 26.432C1.63324 25.8595 1.03783 25.0874 0.626299 24.1836C0.21477 23.2798 -0.000291531 22.272 2.966e-07 21.2485V14.9975C2.966e-07 14.3343 0.225765 13.6984 0.627629 13.2294C1.02949 12.7605 1.57454 12.4971 2.14286 12.4971H7.00286ZM22.6371 27.047C23.4504 27.4302 24.3319 27.5745 25.2042 27.4673C26.0764 27.36 26.9128 27.0045 27.6398 26.432C28.3668 25.8595 28.9622 25.0874 29.3737 24.1836C29.7852 23.2798 30.0003 22.272 30 21.2485V14.9975C30 14.3343 29.7742 13.6984 29.3724 13.2294C28.9705 12.7605 28.4255 12.4971 27.8571 12.4971H22.9971C23.3614 13.2322 23.5714 14.0848 23.5714 14.9975H27.8571V21.2485C27.8573 21.8705 27.7249 22.4827 27.4719 23.0301C27.2189 23.5775 26.8532 24.0429 26.4077 24.3844C25.9623 24.7259 25.451 24.9328 24.92 24.9864C24.389 25.04 23.8548 24.9387 23.3657 24.6916C23.205 25.5193 22.9586 26.3094 22.6371 27.047ZM10.7143 12.4946C10.146 12.4946 9.60092 12.758 9.19906 13.2269C8.79719 13.6959 8.57143 14.3318 8.57143 14.995V22.4988C8.57143 24.4882 9.24872 26.3962 10.4543 27.8029C11.6599 29.2097 13.295 30 15 30C16.705 30 18.3401 29.2097 19.5457 27.8029C20.7513 26.3962 21.4286 24.4882 21.4286 22.4988V14.9975C21.4286 14.3343 21.2028 13.6984 20.8009 13.2294C20.3991 12.7605 19.854 12.4971 19.2857 12.4971H10.7143V12.4946ZM10.7143 14.995H19.2857V22.4988C19.2857 23.8251 18.8342 25.097 18.0305 26.0349C17.2267 26.9727 16.1366 27.4996 15 27.4996C13.8634 27.4996 12.7733 26.9727 11.9695 26.0349C11.1658 25.097 10.7143 23.8251 10.7143 22.4988V14.9975V14.995Z" fill="#264073"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2022, 14:30:44 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 16:26:37 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
