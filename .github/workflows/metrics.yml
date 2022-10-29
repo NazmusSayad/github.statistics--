@@ -78,3 +78,8 @@ jobs:
           plugin_topics_limit: 8
           plugin_topics_mode: starred
           plugin_topics_sort: activity
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_self: yes
+          plugin_notable_types: commit
