@@ -1,3 +1,7 @@
+# ⚠️⚠️ Deprecated - [Check another verison](https://github.com/NazmusSayad/Git-Stats)
+
+<br/><br/><br/>
+
 <p align="center">
   <a href="#">
     <img
